@@ -23,7 +23,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A basic hibernate application created with Java and Hibernate.
+A basic spring boot application created with Spring Initializr.
 
 ### Built With
 * [Java](https://www.oracle.com/java/)
